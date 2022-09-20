@@ -1,0 +1,10 @@
+x=int(input())
+y=float(input())
+if x==1:
+   print(y)
+elif x==2:
+   print(1.5*y)
+elif x==3:
+   print(2*y)
+else:
+   print("not recommended")
